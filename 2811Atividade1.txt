@@ -1,0 +1,11 @@
+Youtube -
+
+Aspectos positivos:
+- É extremamente intuitivo em localizar e selecionar os vídeos que interessam ao usuário
+- É fácil de encontrar a maioria das funções na barra lateral
+- O algoritmo de recomendação GERALMENTE funciona bem e mostra pro usuário mais conteúdos que se relacionam com os interesses
+ 
+Aspectos negativos:
+- Depois de algumas mudanças nos botões que aparecem ao clicar no icone do canal no canto superior direito, é muito mais dificil de encontrar as configurações desejadas
+- O botão de acesso ao canal do próprio usuário se tornou apenas um texto, enquanto originalmente era um botão muito mais intuitivo
+- Os botões de filtragem de conteúdo no topo da tela não são tão úteis quanto eles foram feitos para serem, quando eles são usados, muitos dos vídeos na categoria são de uma área mais abragente do conteúdo específico e não a área mais próxima do que o usuário consome
