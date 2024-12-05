@@ -1,0 +1,46 @@
+Youtube - Página de vídeo
+
++ Positivo - Negativo = Não Relevante
+
+1 - Visibilidade do status do sistema
+
++ O sistema mostra o quanto do vídeo já foi previamente carregado
++ O sistema mostra na tela uma animação de carregamento quando o vídeo trava ou chega no final do pré-carregamento sem carregar o resto
+
+2 - Correspondência entre o sistema e o mundo real
+
++ a interface do youtube é bem intuitiva e tem várias opções que utilizam ícones para serem apresentadas (legenda, configurações, Modo teatro, reprodução automática, tela cheia)
++ na parte externa ao vídeo a página também é intuitiva com fácil acesso ao canal que postou o video, o botão de inscrição, compartilhar e etc
+
+3 - controle e liberdade do usuário
+
++ A maioria das ações apresentadas podem ser desfeitas simplesmente apertando mais uma vez no botão
+
+4 - Consistência e padrões
+
++ Mudança consistente de layout ao sair da página principal para um vídeo a fim de comportar a visualização do vídeo
+
+5 - Prevenção de erros
+
++ Nas coisas relevantes como compartilhamento e denuncia é pedido confirmação antes de finalizar as ações
+
+6 - Reconhecimento em vez de memorização
+
++Todas as funções relevantes estão dipostas na interface de maneira acessível e os ícones exibem de maneira adequada a função de cada um deles
+
+7 - Flexibilidade e eficiência de uso
+
++ Todas as funções padrões tem um atalho de teclado (K para pausar, J e L para retroceder/avançar 10s, C para legendas(captions)), e também existem funções avançadas que só são acessíveis por atalhos (< e > retroceder/avançar 1 frame)
+
+8 - Estética e design minimalista
+
++ A página foca no essencial, a coisa principal que nesse caso é o vídeo que está sendo assistido e na parte lateral outras opções de vídeos
+
+9 - Ajude os usuários a reconhecer, diagnosticar e corrigir erros
+
++ As mensagens de erro são claras, caso o video tenha sido excluído a mensagem especifíca, caso o canal esteja indisponível
+também 
+
+10 - Ajuda e documentação
+
+- FAQ e guias são difíceis de serem acessados 
