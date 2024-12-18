@@ -1,0 +1,8 @@
+Site escolhido: Youtube
+
+As informações estão organizadas de uma maneira em que o usuário tem fácil acesso as categorias diversas, na página principal existe uma barra com diversas categorais de filtros que são automáticamente adaptadas à conteúdos que o usuário costuma consumir.
+
+A navegação está organizada de maneira intuitiva permitindo o usuário de navegar pelas páginas do site atráves da barra lateral, com as coisas básicas como "Início"(que seria a página principal com recomendações de vídeos),"Shorts" (Que abre a função de videos curtos do Youtube), "Inscrições"(Que abre uma página onde mostra os lançamentos em ordem Cronológica de todos os canais que o usuário é inscrito), "Histórico"(Que mostra o histórico de vídeos que o usuário assistiu) 
+Assim como a parte de "Explorar" na barra lateral onde existem algumas funções que geralmente são menos usadas, que são o "Em Alta", "Shopping", "Música","Filmes","Ao Vivo", "Jogos", "Notícias","Esportes", "Cursos", "Podcasts". Essas funções são menos usadas por conta da forma que o algoritmo delas funciona, recomendando as coisas que estão em alta em cada categoria, mas geralmente não são conteúdos que o usuário tem diretamente a intenção de assistir.
+
+A ferramenta de busca é bem intuitiva mostrando, sugestões de resultados baseados no texto sendo escrito pelo usuário, e também salvando buscas anteriores que são usadas de base nas pesquisas futuras

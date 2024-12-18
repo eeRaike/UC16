@@ -1,0 +1,6 @@
+Site escolhido: Escola RS (Site Escolar do Governo)
+
+A estrutura das páginas desse site tem diversas coisas inúteis que toranm as informações que o usuário tem interesse difícil de acessar. Nas páginas específicas como por exemplo a página "Notas" não mostra as notas de maneira simples de visualizar, o usuário tem que arrastar a página para baixo para ver as notas de cada matéria que ainda está separada por cada divisão do ano(bimestre,trimestre,semestre,etc), cada matéria tem informações pequenas que poderiam ser mostradas de maneira muito mais compacta e de fácil visualização,
+além de que as 2 únicas maneiras de ver as notas de maneira compacta são um gráfico super bagunçado que acaba sendo difícil de visualizar, um gráfico de barras que se torna inconveniente de ver as notas.
+
+Eu iria propor uma forma de organizar as coisas de maneira compacta que facilitasse as visualização das notas, de maneira que não fosse preciso descer e subir a página cada vez que fosse visualizar a nota de uma divisão diferente, 

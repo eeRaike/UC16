@@ -1,6 +1,6 @@
 Youtube - Página de vídeo
 
-+ Positivo - Negativo = Não Relevante
++ Positivo - Negativo 
 
 1 - Visibilidade do status do sistema
 
