@@ -1,0 +1,34 @@
+ex 1
+1- Qual a fonte escolhida e por que?
+2- A fonte é legivel e adequada ao contexto?
+3- A hierarquia tipográfica está clara?
+
+
+Site 1: bg3.wiki
+
+1- Nos corpos de texto de informações o tipo de fonte usado é Sans-serif. Enquanto nos títulos o tipo de fonte usado é Serif ('Linux Libertine','Georgia','Times',serif)
+
+2- Sim a escolha das fontes torna o texto bem legível e dentro do contexto de ser uma wiki com informações condensadas funciona muito bem
+
+3- O site segue a hierarquia tipográfica de maneira correta
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+Site 2: w3schools.com
+
+1- Nesse site todos os textos são Sans-serif, apenas mudando o tamanho das fontes, porém faz bom uso disso dando um visual mais moderno
+
+2- A escolha de fonte e tamanho deixa os textos legíveis
+
+3-O site segue a hierarquia tipógrafica de forma correta dentro do contexto que ele se propõe
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Site 3: docs.oracle.com/en/java
+
+
+1- Nesse site, os textos usam 'Oracle Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif. Apenas mudando o tamanho das fontes, mas devido ao estilo da fonte mantém um aspecto formal mesmo não possuindo serifa
+
+
+
