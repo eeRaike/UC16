@@ -1,0 +1,24 @@
+Exercício 1: Analisando o Uso de Cores
+
+Escolha três sites ou apps e analise como as cores são usadas. Pergunte-se:
+
+As cores são adequadas ao propósito e à marca?
+Como as cores influenciam a experiência do usuário?
+O contraste é suficiente para garantir legibilidade?
+
+
+Site 1: twitch.tv
+
+1 - A paleta de cores da Twitch usa branco ou preto como cores base, e roxo como destaque, e o roxo se encaixa de maneira correta com o propósito da marca por expressar criatividade, sendo que, a twitch é uma plataforma onde pessoas fazem livestreams de diversos conteúdos variádos
+
+2 - As cores do roxo não são tão saturadas o que não torna o uso do site desconfortável pros olhos
+
+3 - Sim 
+
+Site 2: spotify.com
+
+1 - A paleta de cores do Spotify é majoritariamente preta e branca, com destaques em verde, e funciona muito bem pro propósito da aplicação
+
+2 - As cores funcionam bem por permitir que os destaques visuais fiquem focados nas capas das músicas, e os destaques em verde geralmente estão associados à ações que podem ser tomadas pelo usuário
+
+3 - O contraste funciona perfeitamente
