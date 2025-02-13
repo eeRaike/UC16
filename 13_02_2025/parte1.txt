@@ -1,0 +1,9 @@
+http://goetzskyvu.com/
+
+Problemas:
+
+1 - Cada minimo detalhe
+2 - O site não segue nenhuma das heurísticas
+3 - O site não segue a Teoria das cores, usando cores super contrastantes que não encaixam umas com as outras, dentro de um fundo preto
+4 - Tem uma organização de texto TENEBROSA, e usa fontes serifadas 
+5 - informações totalmente desorganizadas
